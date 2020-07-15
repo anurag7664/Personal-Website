@@ -1,0 +1,154 @@
+/***********************************************TAG SELECTOR*****************************************************************/
+
+
+body{
+margin:0px;
+text-align: center;
+font-family: 'Merriweather', serif;
+}
+
+h1{
+margin-top: 0;
+margin-bottom: 0;
+font-family: 'Sacramento', cursive;
+
+}
+h2{
+  font-family: 'Galada', cursive;
+}
+h3{
+  font-family: 'Montserrat', sans-serif;
+}
+
+hr{
+  width: 5%;
+  border-style: none;
+  color: 	#87CEEB;
+  border-top-style: dotted;
+  border-width: 5px;
+}
+
+/***********************************************CLASS SELECTOR*****************************************************************/
+.topcontainer{
+  background-color: #E4F9F5;
+position: relative;
+padding-top:180px;
+margin-bottom: 100px;
+}
+
+.sub-heading{
+  color: #45B29A;
+  font-size: 2em;
+  font-family: sans-serif;
+}
+
+.top-cloud{
+  position: absolute;
+  right: 200px;
+  top: 50px;
+}
+.bottom-cloud{
+  position: absolute;
+  left: 200px;
+  bottom: 300px;
+}
+.logo{
+  height:100px;
+}
+.skill-1{
+float: right;
+margin-left: 100px;
+  height: 100px;
+  width: 150px;
+}
+.skill-2{
+  float: left;
+  margin-right: 100px;
+width: 25%;
+}
+.skill-title{
+  color: #FFC0CB;
+  font-size: 1.5em;
+
+
+}
+.profile{
+  line-height: 1.5em;
+  margin-bottom: 4em;
+}
+.skill-discription{
+  font-weight: bolder;
+}
+.btn{
+  background-color:#45B29A;
+  padding-top: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom: 10px;
+  color: antiquewhite;
+  text-decoration: none;
+  border-radius: 10px;
+}
+.btn:hover{
+  background-color: #11cdd4;
+}
+.contact-me{
+  margin-top: 70px;
+  margin-bottom: 70px;
+}
+.bottom-container{
+    background-color: #66bfbf;
+    padding: 2em;
+}
+.footer-img{
+  width: 50px;
+  margin-left: 50px;
+}
+.footer-link{
+  text-decoration: none;
+}
+.about-me{
+  font-weight: bolder;
+width: 30%;
+text-align: center;
+margin: auto;
+}
+
+.skill-row{
+  width: 50%;
+  margin:100px auto 100px auto;
+  text-align:left;
+  line-height: 1.5;
+}
+.work{
+  color: #45b29a;
+  font-size: 1.5em;
+  margin-top: 40px;
+  margin-bottom: 60px;
+}
+.work-info{
+  width: 50%;
+  margin: auto;
+  margin-bottom: 70px;
+font-weight: bolder;
+}
+.skills{
+  margin-top: 4.5em;
+}
+.copywrite{
+  color: #eaf6f6;
+  margin-top: 60px;
+}
+/***********************************************ID SELECTOR****************************************************************/
+#space{
+  margin-top: 0px;
+  color: #45B29A;
+  font-size: 1.5rem;
+  font-weight: normal;
+  line-height: 2;
+}
+#heading{
+  font-size: 5.7em;
+  font-style: italic;
+  color: #45B29A;
+}
